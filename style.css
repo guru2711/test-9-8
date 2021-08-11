@@ -1,0 +1,15 @@
+.img{
+    width: 20rem;
+    height: 100%;
+}
+div{
+    max-width: 20rem;
+    height: 100%;
+    background-color: cornsilk;
+    border-radius: 5%;
+    overflow: hidden;
+    border-color: crimson;
+    box-shadow: 3px 3px 15px 3px;
+    padding: 1rem;
+    
+}
